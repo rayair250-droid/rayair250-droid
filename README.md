@@ -1,21 +1,26 @@
-# Hi, I'm Rayan 👋
+# Rayan
 
-Security engineer focused on **smart-contract auditing, application security, and systems security**.
-I break things to make them safer — then write the fix.
+Cybersecurity student at École 2600. I'm learning across **systems/low-level security, application security, and smart-contract auditing** — mostly by building things and doing CTFs.
 
-- 🔭 Currently sharpening **smart-contract security** through competitive audits (CodeHawks / Code4rena).
-- 🛠️ Featured: **[my-secmalloc](https://github.com/rayair250-droid/my-secmalloc)** — a security-hardened drop-in `malloc` (per-block canaries + isolated metadata pool) shipped with a heap-overflow PoC that the allocator detects.
-- 🧩 Background in CTFs and hands-on pentesting (web, CI/CD supply-chain, low-level).
+## Focus areas
+- **Systems / low-level (C, Linux kernel)** — kernel modules, eBPF, syscalls, and heap exploitation/hardening.
+- **Application & web security** — web pentesting (IDOR, auth, business logic), bug bounty, CI/CD (GitHub Actions) hardening.
+- **Smart contracts (Solidity / EVM)** — auditing in competitive contests: reentrancy, access control, signature/replay, business-logic bugs.
 
-### Focus areas
-- **Smart contracts (Solidity / EVM):** reentrancy, access control, signature & replay, front-running / MEV, business-logic invariants
-- **Application & supply-chain security:** web pentest, GitHub Actions / CI-CD hardening (CRA-aware)
-- **Systems / low-level:** C, heap exploitation & hardening
+## Apprenticeship
+Cybersecurity **governance** — identity & access management (IAM / SailPoint IdentityIQ), identity governance, and compliance.
 
-### Toolbelt
-`Foundry` · `Slither` · `Mythril` · `Aderyn` · `zizmor` / `actionlint` · `Burp` · `nuclei` · `semgrep` · `C` · `Python` · `Solidity`
+## Also doing
+- Bug bounty hunting (web) on YesWeHack.
+- CTF — binary exploitation, web, reversing.
+- Building **aizen**, an offline-first local AI / knowledge-index toolkit in Go.
 
-### Reach me
-- Audit findings & PoCs land here as I publish them — watch this space.
+## Projects
+- **[my-secmalloc](https://github.com/rayair250-droid/my-secmalloc)** — security-hardened drop-in `malloc`: per-block canaries + isolated metadata pool, with a heap-overflow PoC the allocator detects. (C)
+- **[web3-audit-findings](https://github.com/rayair250-droid/web3-audit-findings)** — smart-contract findings & Foundry PoCs from competitive audits (work in progress).
 
-<sub>Open to smart-contract review and CI/CD security work.</sub>
+## Interests
+Post-quantum cryptography · decentralized & mesh networking, off-grid comms · drones / UAV & satellite imagery · local / privacy-preserving LLMs & AI agents · reverse engineering · hardware / IoT · OS internals.
+
+## Contact
+📧 ray.air250@gmail.com
